@@ -1,3 +1,6 @@
+//Author: Shubham Rajput
+//ReactJS
+
 import React from "react"
 import "./style.css"
 import Button from "./Button"
